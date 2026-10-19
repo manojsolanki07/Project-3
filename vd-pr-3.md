@@ -1,0 +1,2 @@
+project 3 array methods url(https://drive.google.com/drive/folders/1yrK4Dw9EFjVj2O5DMPn5qevAzGu5_kjQ?usp=sharing)
+In this project, I learned how to use functions and different array methods in JavaScript to perform various operations on data. I understood how to create reusable functions, process array elements, and use methods like map(), filter(), reduce(), and forEach() according to different requirements. This project helped me improve my problem-solving skills and understand how to write cleaner, more efficient, and reusable code.
