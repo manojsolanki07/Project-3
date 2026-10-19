@@ -38,7 +38,6 @@ var sum: number = 0;
 for (let i: number = 0; i < af_2.length; i++) {
     sum = sum + af_2[i];
 }
-
 document.write("Sum of all given arry = " + sum);
 
 
